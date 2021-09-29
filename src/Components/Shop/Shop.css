@@ -1,0 +1,27 @@
+.search-container {
+    background-color: #222f3e;
+    text-align: center;
+    line-height: 40px;
+    display: flex;
+    justify-content: center;
+}
+.search-container input {
+    outline: 0;
+    width: 50%;
+    height: 30px;
+    padding: 0 10px;
+    margin-right: 20px;
+}
+
+.shop-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.product-container {
+    border-right: 1px solid #bdc3c7;
+    margin-right: 10px;
+    margin-left: 100px;
+}
+.icon {
+    color: #bdc3c7;
+}

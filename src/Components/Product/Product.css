@@ -1,0 +1,30 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid #bdc3c7;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    color: #222f3e;
+}
+.product-detail {
+    margin-left: 15px;
+}
+.product-name {
+    color: #1834d4;
+    font-weight: 500;
+}
+.product-price {
+    font-weight: 600;
+}
+.purchase-btn {
+    background-color: #f1c40f;
+    border: 1px solid #bdc3c7;
+    border-radius: 4px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    color: #222f3e;
+    font-weight: 600;
+}
+.icon-color {
+    color: #f1c40f;
+}
