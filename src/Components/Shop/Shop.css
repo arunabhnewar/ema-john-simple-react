@@ -25,3 +25,12 @@
 .icon {
     color: #bdc3c7;
 }
+.regular-btn {
+    background-color: #f1c40f;
+    border: 0;
+    width: 150px;
+    height: 35px;
+    font-weight: 700;
+    margin-left: 100px;
+    cursor: pointer;
+}
