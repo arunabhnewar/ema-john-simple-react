@@ -1,0 +1,41 @@
+.login-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-body {
+    border: 1px solid #636e72;
+    border-radius: 4px;
+    width: 300px;
+    text-align: center;
+    margin-top: 35px;
+    padding: 20px;
+    box-shadow: 0px 5px 5px 5px #636e72;
+    background-color: #fcf2d4;
+}
+
+.login-title {
+    color: #636e72;
+}
+.login-btn {
+    background-color: #f1c40f;
+    border: 0;
+    width: 150px;
+    height: 35px;
+    color: #222f3e;
+    font-weight: 700;
+    cursor: pointer;
+}
+.login-form p {
+    color: #218c74;
+}
+.form-text {
+    color: #d35400;
+}
+.submit-btn {
+    cursor: pointer;
+    background-color: green;
+    border: 0;
+    color: #fff;
+    padding: 10px 15px;
+}
